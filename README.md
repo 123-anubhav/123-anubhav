@@ -246,9 +246,9 @@ An AI-powered computer vision tool that uses Amazon Rekognition to detect object
 
 For projects that contain demo videos or GIFs, open the project repository and view the media embedded in its README. GitHub displays GIF previews directly and supports videos uploaded to GitHub issues, discussions, and pull requests. This profile links to the project repositories so their existing demos remain the source of truth.
 
-- 🧠 [RAG Orchestrator Chatbot — repository ](https://github.com/123-anubhav/rag-orchestrator-pipeline-chatbot)
-- 📚 [AI Content Assistant — ](https://github.com/123-anubhav/ai-content-assistant)
-- 🎬 [Video AI Assistant — locate repository and demo](https://github.com/123-anubhav?tab=repositories)
+- 🧠 [RAG Orchestrator Chatbot — ](https://github.com/123-anubhav/rag-orchestrator-pipeline-chatbot)
+- 📚 [AI Content Assistant —](https://github.com/123-anubhav/ai-content-assistant)
+- 🎬 [Video AI Assistant — ](https://github.com/123-anubhav/video-ai-content-assistant)
 - 🛠️ [aws-rekognition-vision-analyser](https://github.com/123-anubhav/aws-rekognition-vision-analyser)
 
 ---
