@@ -304,11 +304,7 @@ For projects that contain demo videos or GIFs, open the project repository and v
 
 </div>
 
-<br/><br/>
-
-<a href="https://github.com/123-anubhav?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github" alt="My repositories" />
-</a>
+<br/>
 
 </div>
 </div>
