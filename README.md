@@ -195,7 +195,7 @@ AI-powered document/book ingestion and question answering.
 
 <br/><br/>
 
-<a href="https://github.com/123-anubhav?tab=repositories">🔗 Find Project & Demo</a>
+<a href="https://github.com/123-anubhav/ai-content-assistant">🔗  View Project & Demo</a>
 
 </td>
 </tr>
@@ -214,63 +214,42 @@ AI application for processing video transcripts and asking questions about video
 
 <br/><br/>
 
-<a href="https://github.com/123-anubhav?tab=repositories">🔗 Find Project & Demo</a>
+<a href="https://github.com/123-anubhav/video-ai-content-assistant">🔗  View Project & Demo</a>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### 🛠️ Java AI Development Team
+### 🛠️ aws-rekognition-vision-analyser
 
-AI-assisted workflow exploring BRD-to-Spring Boot code generation.
+An AI-powered computer vision tool that uses Amazon Rekognition to detect objects, faces, text, and scenes from images and video files.
 
 <br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat-square" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square" />
+
 
 <br/><br/>
 
-<a href="https://github.com/123-anubhav?tab=repositories">🔗 Find Project & Demo</a>
+<a href="https://github.com/123-anubhav/aws-rekognition-vision-analyser">🔗  View Project & Demo</a>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### 🤖 AI User Agent
-
-AI agent experiments and model integrations.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square" />
-<img src="https://img.shields.io/badge/LLM-7B61FF?style=flat-square" />
-
-<br/><br/>
-
-<a href="https://github.com/123-anubhav?tab=repositories">🔗 Find Project & Demo</a>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-<a href="https://github.com/123-anubhav?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20MY%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
 
 ### 🎥 AI Project Demos
 
 For projects that contain demo videos or GIFs, open the project repository and view the media embedded in its README. GitHub displays GIF previews directly and supports videos uploaded to GitHub issues, discussions, and pull requests. This profile links to the project repositories so their existing demos remain the source of truth.
 
-- 🧠 [RAG Orchestrator Chatbot — repository and demo](https://github.com/123-anubhav/rag-orchestrator-pipeline-chatbot)
-- 📚 [AI Content Assistant — locate repository and demo](https://github.com/123-anubhav?tab=repositories)
+- 🧠 [RAG Orchestrator Chatbot — repository ](https://github.com/123-anubhav/rag-orchestrator-pipeline-chatbot)
+- 📚 [AI Content Assistant — ](https://github.com/123-anubhav/ai-content-assistant)
 - 🎬 [Video AI Assistant — locate repository and demo](https://github.com/123-anubhav?tab=repositories)
-- 🛠️ [Java AI Development Team — locate repository and demo](https://github.com/123-anubhav?tab=repositories)
-- 🤖 [AI User Agent — locate repository and demo](https://github.com/123-anubhav?tab=repositories)
+- 🛠️ [aws-rekognition-vision-analyser](https://github.com/123-anubhav/aws-rekognition-vision-analyser)
 
 ---
 
