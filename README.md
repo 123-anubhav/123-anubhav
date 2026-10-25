@@ -289,10 +289,6 @@ For projects that contain demo videos or GIFs, open the project repository and v
 
 <div align="center">
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
 <a href="https://github.com/123-anubhav">
   <img src="https://img.shields.io/badge/Quickdraw-Achievement-orange?style=for-the-badge&logo=github" alt="Quickdraw" />
 </a>
