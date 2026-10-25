@@ -223,8 +223,24 @@ Explore additional repositories covering backend development, Python application
 
 <br/><br/>
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=123-anubhav&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+## 🏆 GitHub Achievements
 
+<div align="center">
+
+<a href="https://github.com/123-anubhav">
+  <img src="https://img.shields.io/badge/Quickdraw-Achievement-orange?style=for-the-badge&logo=github" alt="Quickdraw" />
+</a>
+<a href="https://github.com/123-anubhav">
+  <img src="https://img.shields.io/badge/Pull%20Shark-Achievement-blue?style=for-the-badge&logo=github" alt="Pull Shark" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/123-anubhav?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github" alt="My repositories" />
+</a>
+
+</div>
 </div>
 
 ---
