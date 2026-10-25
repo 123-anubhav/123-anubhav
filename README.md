@@ -1,96 +1,102 @@
 
-<!-- ==================== HERO HEADER ==================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=ANUBHAV%20SRIVASTAVA&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Java%20Full%20Stack%20%7C%20GenAI%20%7C%20Agentic%20AI&descSize=17&descAlignY=57&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00B4D8&height=220&section=header&text=ANUBHAV%20SRIVASTAVA&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=JAVA%20FULL%20STACK%20%7C%20BACKEND%20%7C%20GENAI&descSize=17&descAlignY=56&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;GenAI+Application+Developer;Building+RAG+%26+LLM-powered+Applications;Exploring+Agentic+AI+%26+Multi-Agent+Systems" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+Event-Driven+Systems;Python+%7C+FastAPI+%7C+Generative+AI;Building+Practical+Software%2C+One+Project+at+a+Time" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/123-anubhav">
-  <img src="https://img.shields.io/badge/GitHub-123--anubhav-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-123--anubhav-181717?style=for-the-badge&logo=github" />
 </a>
 <a href="https://www.linkedin.com/in/anubhav-srivastava-60328895/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://anubhavitech.in">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:anubhav.aa2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=123-anubhav&style=for-the-badge&color=00B4D8" alt="Profile views" />
 
 </div>
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
-
 ## 👨‍💻 About Me
 
-<img align="right" width="250" src="https://github-readme-stats.vercel.app/api?username=123-anubhav&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<table>
+<tr>
+<td width="65%" valign="top">
 
-I'm a developer focused on building practical applications across **Java Full Stack development and Generative AI**.
+I'm a software developer with experience across **Java Full Stack development and Generative AI**.
 
 - 💼 **Experience:** 3 years in Java Full Stack development and 1.5 years in GenAI development.
-- ☕ **Backend Engineering:** Java, Spring Boot, REST APIs and database integration.
-- 🧠 **Generative AI:** RAG pipelines, embeddings, vector search and LLM applications.
-- 🐍 **Python Development:** FastAPI, Streamlit and AI application backends.
-- ☁️ **Cloud:** AWS services and application deployment.
-- 🤖 **Current Focus:** Agentic AI, multi-agent workflows and advanced RAG.
-- 🚀 **Learning by Building:** Turning concepts into working projects and improving them through experimentation.
+- ☕ **Backend:** Java, Spring Boot, REST APIs, JPA and database integration.
+- 🏗️ **Architecture:** CQRS, event-driven applications and messaging integrations.
+- 🎨 **Frontend:** Angular, React, JavaScript, TypeScript and Bootstrap.
+- 🐍 **Python:** FastAPI, Streamlit and LLM-powered applications.
+- ☁️ **Cloud & Tools:** AWS, Docker, Linux, Git and Maven.
+- 🧠 **AI Engineering:** RAG, embeddings, vector search and LLM integration.
 
-<br clear="right"/>
+I enjoy working across the stack—from designing APIs and integrating databases to building interactive frontends and experimenting with AI-powered applications.
 
-> **My developer mindset:** Understand the problem, build the solution, test it, and keep improving it.
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api?username=123-anubhav&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub statistics" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ My Technical Universe
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp" />
-</p>
-
-### ⚙️ Backend & Frameworks
+### ☕ Java Full Stack & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,fastapi,hibernate,nodejs" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate" alt="Java backend technologies" />
 </p>
+
+<img src="https://img.shields.io/badge/REST%20APIs-Backend%20Development-005571?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JPA-Data%20Persistence-59666C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Microservices-Architecture-6A5ACD?style=for-the-badge" />
 
 ### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,bootstrap" alt="Frontend technologies" />
 </p>
 
-### 🧠 Generative AI & RAG
+### 🐍 Python & Generative AI
 
 <p>
+<img src="https://skillicons.dev/icons?i=python,fastapi" alt="Python technologies" />
+</p>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-Document%20AI-7B61FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Pinecone-Vector%20Database-00A98F?style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/Pinecone-Vector%20Search-00A98F?style=for-the-badge" />
 
-### 🗄️ Databases & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
-</p>
-
-### ☁️ Cloud, DevOps & Tools
+### 📨 Messaging & Event-Driven Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,maven,vscode" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka%20Streams-Event%20Processing-005571?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MQTT-Messaging-660066?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CQRS-Software%20Architecture-6A5ACD?style=for-the-badge" />
+</p>
+
+### 🗄️ Databases, Cloud & Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,docker,linux,git,github" alt="Databases, cloud and development tools" />
 </p>
 
 ---
@@ -99,112 +105,86 @@ I'm a developer focused on building practical applications across **Java Full St
 
 <div align="center">
 
-### 🧠 RAG Orchestrator Pipeline Chatbot
+### 01 · 🏗️ CQRS User Interface
+
+<a href="https://github.com/123-anubhav/cqrs-user-ui">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=123-anubhav&repo=cqrs-user-ui&theme=tokyonight&hide_border=true" width="49%" alt="CQRS User UI repository" />
+</a>
+
+**Focus:** CQRS · User Interface · Full Stack Development
+
+A project in my CQRS-related development work. Explore the repository for its implementation details and technology stack.
+
+[**View Repository →**](https://github.com/123-anubhav/cqrs-user-ui)
+
+---
+
+### 02 · 📨 MQTT + Kafka + Spring Boot
+
+<a href="https://github.com/123-anubhav/mqtt-with-kafka-and-boot-integration">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=123-anubhav&repo=mqtt-with-kafka-and-boot-integration&theme=tokyonight&hide_border=true" width="49%" alt="MQTT Kafka Spring Boot integration" />
+</a>
+
+**Focus:** Java · Spring Boot · MQTT · Apache Kafka · Messaging Integration
+
+An integration project exploring messaging connectivity across MQTT, Kafka and Spring Boot.
+
+[**View Repository →**](https://github.com/123-anubhav/mqtt-with-kafka-and-boot-integration)
+
+---
+
+### 03 · ⚡ MQTT + Kafka Streams + Spring Boot
+
+<a href="https://github.com/123-anubhav/mqtt-with-kafka-and-kafkaStream-boot-integration-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=123-anubhav&repo=mqtt-with-kafka-and-kafkaStream-boot-integration-&theme=tokyonight&hide_border=true" width="49%" alt="MQTT Kafka Streams Spring Boot integration" />
+</a>
+
+**Focus:** Event-Driven Systems · Kafka Streams · Spring Boot · MQTT
+
+A project exploring messaging integration and stream-processing technologies in the Java ecosystem.
+
+[**View Repository →**](https://github.com/123-anubhav/mqtt-with-kafka-and-kafkaStream-boot-integration-)
+
+---
+
+### 04 · 🧠 RAG Orchestrator Pipeline Chatbot
 
 <a href="https://github.com/123-anubhav/rag-orchestrator-pipeline-chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=123-anubhav&repo=rag-orchestrator-pipeline-chatbot&theme=tokyonight&hide_border=true" alt="RAG Orchestrator Pipeline Chatbot" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=123-anubhav&repo=rag-orchestrator-pipeline-chatbot&theme=tokyonight&hide_border=true" width="49%" alt="RAG chatbot repository" />
 </a>
 
-**Focus:** Retrieval-Augmented Generation · Document Question Answering · Embeddings · Semantic Search · LLM Integration
+**Focus:** Python · Streamlit · Amazon Bedrock · Retrieval-Augmented Generation
 
-A practical RAG project focused on retrieving relevant document context and generating grounded responses using an LLM.
+A document question-answering project combining retrieval with LLM-generated responses.
 
-**Stack:** Python · Streamlit · Amazon Bedrock · RAG
-
-[**↗ Explore Source Code**](https://github.com/123-anubhav/rag-orchestrator-pipeline-chatbot)
+[**View Repository →**](https://github.com/123-anubhav/rag-orchestrator-pipeline-chatbot)
 
 ---
 
-### 📊 Excel Report Generator
+### 05 · 📊 Excel Report Generator
 
 <a href="https://github.com/123-anubhav/Excel_Report_Generator_Using-_APACHE_POI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=123-anubhav&repo=Excel_Report_Generator_Using-_APACHE_POI&theme=tokyonight&hide_border=true" alt="Excel Report Generator" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=123-anubhav&repo=Excel_Report_Generator_Using-_APACHE_POI&theme=tokyonight&hide_border=true" width="49%" alt="Excel report generator repository" />
 </a>
 
-**Focus:** REST APIs · Excel Report Generation · Database Integration · Backend Development
+**Focus:** Java · Spring Boot · Spring Data JPA · Apache POI · Maven
 
-A Java backend project that uses Apache POI to generate Excel reports, with Spring Boot and Spring Data JPA.
+A backend application for generating Excel reports using Java technologies and Apache POI.
 
-**Stack:** Java · Spring Boot · Spring Data JPA · Apache POI · Maven
-
-[**↗ Explore Source Code**](https://github.com/123-anubhav/Excel_Report_Generator_Using-_APACHE_POI)
-
----
-
-### 🔬 More Projects & Experiments
-
-Explore my repositories for additional backend development, AI applications, document processing, and engineering experiments.
-
-<a href="https://github.com/123-anubhav?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-2C5364?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[**View Repository →**](https://github.com/123-anubhav/Excel_Report_Generator_Using-_APACHE_POI)
 
 </div>
 
 ---
 
-## 🧪 What I'm Exploring Now
+## 📂 Explore More Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Agentic AI
-
-- LLM-powered agents and tool use
-- Multi-agent collaboration
-- Workflow orchestration
-- Human-in-the-loop patterns
-
-</td>
-<td width="50%" valign="top">
-
-### 🔎 Advanced RAG
-
-- Retrieval quality and relevance
-- Chunking and embedding strategies
-- Hybrid retrieval concepts
-- Evaluation and response quality
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☕ Backend Engineering
-
-- Spring Boot and REST APIs
-- Maintainable application architecture
-- Database integration
-- Error handling and reliability
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ AI Application Engineering
-
-- AWS AI services
-- Deployment and configuration
-- Observability and cost awareness
-- Reliable application workflows
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 GitHub Achievements
+My work extends beyond these featured repositories across backend development, frontend applications, messaging integrations and AI experiments.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Quickdraw-Achievement-orange?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Pull%20Shark-Achievement-blue?style=for-the-badge&logo=github" />
-
-<br/><br/>
-
 <a href="https://github.com/123-anubhav?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore%20My%20Work-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -215,37 +195,70 @@ Explore my repositories for additional backend development, AI applications, doc
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=123-anubhav&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=123-anubhav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=123-anubhav&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=123-anubhav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=123-anubhav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="75%" src="https://streak-stats.demolab.com?user=123-anubhav&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=123-anubhav&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub achievement trophies" />
 
 </div>
 
 ---
 
-## 🤝 Let's Build Something
+## 🎯 My Development Focus
 
-Interested in **Java Full Stack development, GenAI applications, RAG systems, or AI-powered software?**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Let's connect and exchange ideas.
+### ☕ Java Full Stack
+
+- Spring Boot and REST APIs
+- Frontend-backend integration
+- Database-driven applications
+- CQRS and application architecture
+- Messaging and event-driven systems
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Python & GenAI
+
+- FastAPI-based AI backends
+- LLM application development
+- RAG-based document Q&A
+- Embeddings and vector databases
+- Agentic AI experimentation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
+<a href="https://github.com/123-anubhav">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+</a>
 <a href="https://www.linkedin.com/in/anubhav-srivastava-60328895/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:anubhav.aa2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://anubhavitech.in">
-  <img src="https://img.shields.io/badge/Website-AnubhavITech-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" />
+**Java Full Stack · Backend Engineering · GenAI Applications**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00B4D8&height=120&section=footer" />
 
 </div>
