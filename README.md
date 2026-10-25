@@ -236,6 +236,23 @@ An AI-powered computer vision tool that uses Amazon Rekognition to detect object
 </td>
 <td width="33%" valign="top" align="center">
 
+### 🛠️ aws-polly-audio-generator
+
+A Streamlit-based web application that converts Hindi text into MP3 speech using Amazon Polly..
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat-square" />
+
+
+<br/><br/>
+
+<a href="https://github.com/123-anubhav/aws-polly-audio-generato">🔗  View Project & Demo</a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
 
 </td>
 </tr>
@@ -246,10 +263,11 @@ An AI-powered computer vision tool that uses Amazon Rekognition to detect object
 
 For projects that contain demo videos or GIFs, open the project repository and view the media embedded in its README. GitHub displays GIF previews directly and supports videos uploaded to GitHub issues, discussions, and pull requests. This profile links to the project repositories so their existing demos remain the source of truth.
 
-- 🧠 [RAG Orchestrator Chatbot — ](https://github.com/123-anubhav/rag-orchestrator-pipeline-chatbot)
-- 📚 [AI Content Assistant —](https://github.com/123-anubhav/ai-content-assistant)
-- 🎬 [Video AI Assistant — ](https://github.com/123-anubhav/video-ai-content-assistant)
-- 🛠️ [aws-rekognition-vision-analyser](https://github.com/123-anubhav/aws-rekognition-vision-analyser)
+- 🧠 [RAG Orchestrator Chatbot](https://github.com/123-anubhav/rag-orchestrator-pipeline-chatbot)
+- 📚 [AI Content Assistant](https://github.com/123-anubhav/ai-content-assistant)
+- 🎥 [Video AI Assistant](https://github.com/123-anubhav/video-ai-content-assistant)
+- 👁️ [aws-rekognition-vision-analyser](https://github.com/123-anubhav/aws-rekognition-vision-analyser)
+- 🗣️ [aws-polly-audio-generator](https://github.com/123-anubhav/aws-polly-audio-generator)
 
 ---
 
