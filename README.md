@@ -23,7 +23,7 @@
 
 I'm a developer with experience in **Java Full Stack development and Generative AI**, building applications across backend services, frontend interfaces, messaging integrations, and LLM-powered workflows.
 
-- 💼 **Experience:** 3+ years in Java Full Stack and 1+ years in GenAI development.
+- 💼 **Experience:** 3+ years in Java Full Stack and 1.5+ years in GenAI development, including freelance project experience.
 - ☕ **Backend:** Java, Spring Boot, REST APIs, JPA and database integration.
 - 🏗️ **Architecture:** CQRS, messaging and event-driven application concepts.
 - 🎨 **Frontend:** Angular, React, JavaScript and TypeScript.
